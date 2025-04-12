@@ -64,7 +64,5 @@ If you liked this project or have feedback, feel free to connect:
 - 📧 VANSHIKAPANDEY712@gmail.com
 
 
-⚠️ Disclaimer
 
-The dataset used here is for academic and personal learning purposes only.
 
