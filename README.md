@@ -20,13 +20,10 @@ This was done as part of my personal learning to practice Power BI data modeling
 
 ---
 
-## 🖼️ Dashboard Screenshots
+ 🖼️ Dashboard Screenshots
 
-### Main Dashboard
-![HR Dashboard](dashboard_main.png)
-
-### Detailed Data View
-![HR Detailed View](dashboard_table.png)
+![Main Dashboard](Screenshot%20(4).png)
+![Detailed Data View](Screenshot%20(5).png)
 
 ---
 
